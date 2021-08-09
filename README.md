@@ -1,5 +1,5 @@
 # Programmer
-The programmer project addressed to programmer's community 
+ 
 
 
 The programmer project addressed to programmer's community who are able to register and share their favorit programming language and framework that they use, in turn, other visitors could search for the programmer that has been already registered whether based on programming language or framework
