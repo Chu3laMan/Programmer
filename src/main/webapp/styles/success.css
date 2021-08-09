@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.container {
+  padding: 30px;
+}
+.container h1 {
+  color: #297f80;
+  margin-bottom: 10px;
+}
+.container p {
+  margin-bottom: 10px;
+  width: 23%;
+  font-size: 18px;
+  line-height: 30px;
+}
+button {
+  cursor: pointer;
+  padding: 10px 20px;
+}
+
+.wrap-p {
+	font-size: 10px;
+	line-height: 1.7;
+	color: red;
+	margin: 0px;
+    text-align: center;
+    margin: 0px;
+}
+
